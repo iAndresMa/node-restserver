@@ -15,6 +15,7 @@
         "express": "^4.17.1",
         "mongoose": "^5.11.10",
         "mongoose-unique-validator": "^2.0.3",
+        "npm-upgrade": "^2.0.4",
         "underscore": "^1.12.0"
     }
 }
